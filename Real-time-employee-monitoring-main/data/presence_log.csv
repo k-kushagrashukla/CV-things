@@ -1,0 +1,42 @@
+2025-07-08,19:03:49,19:04:23,34,Not Working 
+2025-07-08,19:04:23,19:05:09,46,Working 
+2025-07-08,19:06:33,19:06:39,5,Not Working 
+Date,Start Time,End Time,Duration (seconds),Status
+2025-07-08,19:11:07,19:11:07,0,Working 
+Date,Start Time,End Time,Duration (seconds),Status
+2025-07-08,19:13:39,19:13:39,0,Working 
+2025-07-08,19:13:39,19:13:58,19,Not Working 
+Date,Start Time,End Time,Duration (seconds),Status
+2025-07-08,19:14:37,19:14:37,0,Working 
+Date,Start Time,End Time,Duration (seconds),Status
+2025-07-14,03:18:09,03:18:09,0,Working 
+2025-07-14,03:20:24,03:20:24,0,Not Working 
+2025-07-14,03:20:30,03:20:31,0,Working 
+2025-07-14,03:20:33,03:20:36,2,Not Working 
+2025-07-14,03:20:36,03:21:32,56,Working 
+2025-07-14,03:21:40,03:21:41,0,Not Working 
+2025-07-14,03:21:41,03:21:44,4,Working 
+Date,Start Time,End Time,Duration (seconds),Status
+2025-07-15,21:06:07,21:06:07,0,Working 
+2025-07-15,21:07:34,21:08:23,49,Working 
+Date,Start Time,End Time,Duration (seconds),Status
+2025-07-15,21:15:23,21:15:23,0,Working 
+2025-07-15,21:15:27,21:15:45,18,Not Working 
+2025-07-15,21:15:45,21:16:15,30,Not Working 
+Date,Start Time,End Time,Duration (seconds),Status
+2025-07-15,21:20:31,21:20:31,0,Working 
+2025-07-15,21:20:46,21:21:18,32,Not Working 
+2025-07-15,21:21:18,21:21:39,21,Working 
+2025-07-15,21:21:39,21:21:46,7,Working 
+Date,Start Time,End Time,Duration (seconds),Status
+2025-07-15,21:25:22,21:25:22,0,Working 
+2025-07-15,21:25:22,21:26:23,61,Not Working 
+2025-07-15,21:27:09,21:27:10,1,Working 
+2025-07-15,21:27:13,21:27:38,24,Working 
+Date,Start Time,End Time,Duration (seconds),Status
+2025-07-15,21:28:06,21:28:06,0,Working 
+2025-07-15,21:29:00,21:29:01,2,Not Working 
+2025-07-15,21:29:01,21:29:50,48,Not Working 
+Date,Start Time,End Time,Duration (seconds),Status
+2025-07-15,21:57:52,21:57:52,0,Working 
+2025-07-15,21:57:52,21:58:21,29,Working 
